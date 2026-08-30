@@ -1,25 +1,78 @@
-mewwwooooo
+<div align="center">
 
-### hello i'm hesam 
+# Hey there, I'm Hesam 👋
 
-#### i'm a full stck devolper<br />
-#### also i like to do everything <br />
-#### also i'm a geek
+**Full-Stack Developer • Tech Enthusiast • Problem Solver**
 
-#### some info about me
-my name is hesam <br />
-i'm 16 years old<br /> 
 
-## my skills
-### frontend
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind)](https://skillicons.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudo-cat-coder)
 
-### backend 
-[![My Skills](https://skillicons.dev/icons?i=python,django)](https://skillicons.dev)
+</div>
 
-### database
-[![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
+---
 
-### other skills or tech 
-[![My Skills](https://skillicons.dev/icons?i=blender,photoshop,postman,git,pr,bash,vscode,docker,linux&perline=5)](https://skillicons.dev)
+## 🙋‍♂️ About Me
+
+I'm a **16-year-old full-stack developer** passionate about building things that live on the internet. I love turning ideas into reality through clean code and creative solutions.
+
+-  Currently exploring **web development** & **system design**
+-  Always learning new technologies and tools
+-  Fascinated by open source and community-driven projects
+-  Fun fact: I geek out over everything tech-related
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&perline=7" />
+</a>
+</p>
+
+### Backend
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=py,django&perline=5" />
+</a>
+</p>
+
+### Database
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=postgres&perline=5" />
+</a>
+</p>
+
+### DevOps & Tools
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,postman,bash&perline=6" />
+</a>
+</p>
+
+### Design
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=blender,ps&perline=5" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Hesam's GitHub stats](https://github-stats-extended.vercel.app/api?username=sudo-cat-coder&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=sudo-cat-coder&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+
+
+
+
 
