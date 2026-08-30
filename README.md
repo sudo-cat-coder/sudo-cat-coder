@@ -23,3 +23,14 @@ i'm 16 years old<br />
 ### other skills or tech 
 [![My Skills](https://skillicons.dev/icons?i=blender,photoshop,postman,git,pr,bash,vscode,docker,linux&perline=5)](https://skillicons.dev)
 
+
+## github status
+
+
+<div align="left">
+
+![Hesam's GitHub stats](https://github-stats-extended.vercel.app/api?username=sudo-cat-coder&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=sudo-cat-coder&layout=compact&theme=radical&hide_border=true)
+
+</div>
