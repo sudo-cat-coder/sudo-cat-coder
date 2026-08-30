@@ -1,14 +1,24 @@
 mewwwooooo
 
-### hello i'm hesam 
+<div align="center">
 
-#### i'm a full stck devolper<br />
-#### also i like to do everything <br />
-#### also i'm a geek
+# Hey, I'm Hesam 👋
+### Full-Stack Developer & Geek
 
-#### some info about me
-my name is hesam <br />
-i'm 16 years old<br /> 
+I like building things, learning how they work,
+and occasionally making things that probably didn't need to exist.
+
+</div>
+
+
+##  About Me
+
+*  Currently working mostly with **Python & Django & DRF**
+*  Learning **React & TypeScript**
+*  Working with **PostgreSQL**
+*  Linux enjoyer
+
+
 
 ## my skills
 ### frontend
