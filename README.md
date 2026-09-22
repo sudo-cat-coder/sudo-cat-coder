@@ -25,7 +25,7 @@ and occasionally making things that probably didn't need to exist.
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind)](https://skillicons.dev)
 
 ### backend 
-[![My Skills](https://skillicons.dev/icons?i=python,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi)](https://skillicons.dev)
 
 ### database
 [![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
